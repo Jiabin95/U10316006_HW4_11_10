@@ -1,5 +1,6 @@
-import java.util.ArrayList;
+import java.util.ArrayList; //import ArrayList
 
+/**Main method/
 public class MyStack extends ArrayList<Object> {
  
   public boolean isEmpty() {
