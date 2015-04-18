@@ -1,6 +1,7 @@
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.ArrayList;  //import ArrayList
+import java.util.Scanner;    //import a scanner
 	
+	/**Main method/
 	public class Test{
 	public static void main(String[] args){
 	
@@ -17,6 +18,7 @@ import java.util.Scanner;
 	}
 
 	while(!abc.isEmpty()){
+	System.out.println("");	
 	System.out.println(abc.pop());
 	}
 }
